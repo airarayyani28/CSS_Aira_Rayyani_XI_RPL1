@@ -1,0 +1,103 @@
+/*index*/
+.a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgba(230, 12, 128, 0.717);
+    display: block;
+}
+.i{
+    color: rgba(45, 104, 152, 0.616);
+    font-style: italic;
+}
+
+.r{
+   color: rgb(36, 36, 3);
+   font-weight: 200;
+   font: 200;
+   display: block;
+   width: 500px;
+   
+
+}
+
+.f{
+    background-color: bisque;
+    height: 100vh;
+    margin: 0%;
+
+}
+
+.y{
+    font-style: oblique;
+    color: rgb(26, 150, 233);
+}
+
+.j{
+    font-style: oblique;
+    color: darkgray;
+}
+
+
+
+.ra{
+    text-decoration: none;
+    border: 1px;
+    padding: 8px 16px;
+    border-radius: 5px;
+    transition: 0.3s;
+} 
+
+/*form*/
+.bf{
+
+    background-color: #f1a6d4;
+    justify-items: center;
+}
+.bf h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+.bf h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+.login{
+   background-color: rgb(216, 129, 225);
+   padding: 20px 30px;
+   border-radius: 10px;
+   width: 300px;
+   text-align: center;
+
+}
+
+.form {
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(21, 1, 1);
+background-color: rgb(237, 35, 133);
+border-radius: 10px;
+padding: 20px 30px;
+}
+
+/* welkam*/
+
+.bw {
+    background-color: rgb(254, 191, 247);
+    text-align: center;
+}
+.w {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 255, 177, 0.865);
+}
+.w p a {
+    color: rgb(153, 173, 255);
+    font-weight: bold;
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.w a:hover{
+
+    background-color: rgb(236, 236, 236);
+}
